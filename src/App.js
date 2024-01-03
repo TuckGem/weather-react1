@@ -11,6 +11,9 @@ function App() {
 
         <Weather city="paris" />
       </header>
+      <footer>
+        <a href="https://github.com/sobPare/weagher-react">github linked</a>
+      </footer>
     </div>
   );
 }

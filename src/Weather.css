@@ -1,5 +1,5 @@
 .Weather {
-  background: #d5def5;
+background: linear-gradient(to top, #feada6 0%, #f5efef 100%);
   max-width: 590px;
   margin: 0px auto;
   border: 1px solid #8e819c;

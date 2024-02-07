@@ -7,13 +7,11 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <h1>{`Weahter App`}</h1>
+          <h1>{`Weather App`}</h1>
           <Search />
           <Weather city="paris" />
         </header>
-        <footer>
-          <a href="https://github.com/sobPare/weagher-react">github linked</a>
-        </footer>
+        
       </div>
     </div>
   );
